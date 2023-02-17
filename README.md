@@ -1,2 +1,2 @@
 # SuperMAG-availability
-Short notebook for determining SuperMAG station data availability
+Determine SuperMAG station data availability by year, geographic location, and your definition of "available".
